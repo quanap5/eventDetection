@@ -1,0 +1,9 @@
+# Ignore file json
+
+#ignore file .pyc
+*.pyc
+
+# Ignore embedding file. you have dowload it from https://nlp.stanford.edu/projects/glove/
+glove_twitter_27B_200d.text
+
+
