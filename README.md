@@ -25,6 +25,6 @@ We  designed  a  Graphic  User  Interface  usingPyQt. Both CNN  model and LSTM  
 - This configure for embedding with 200 of dimensionality namelly: glove_twitter_27B_200d.text
 - Add to folder /embedings/
 
-### Step 3 Run with GUI
+### Step:3 Run with GUI
 - python demo.try
 
