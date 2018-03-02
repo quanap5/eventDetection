@@ -26,5 +26,4 @@ We  designed  a  Graphic  User  Interface  usingPyQt. Both CNN  model and LSTM  
 - Add to folder /embedings/
 
 ### Step:3 Run with GUI
-- python demo.try
-
+- python demo.py
