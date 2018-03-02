@@ -1,4 +1,4 @@
-# Event Detection Demonstration [here](eventDetection/Readme.pdf )
+# Event Detection Demonstration [here](https://github.com/quanap5/eventDetection/blob/master/Readme.pdf)
 
 - Using deepleaning technique for real-time event detection
   - CNN: identify informative data
