@@ -3,7 +3,7 @@
 # ignore file .pyc
 *.pyc
 
-# Ignore embedding file. you have dowload it from https://nlp.stanford.edu/projects/glove/
+# Ignore embedding file. you have dowload it from https://nlp.stanford.edu/projects/glove/ save to  folder /embeddings to running
 glove_twitter_27B_200d.text
 
 
