@@ -25,5 +25,16 @@ We  designed  a  Graphic  User  Interface  usingPyQt. Both CNN  model and LSTM  
 - This configure for embedding with 200 of dimensionality namelly: glove_twitter_27B_200d.text
 - Add to folder /embedings/
 
-### Step:3 Run with GUI
-- python demo.py
+### Step3: Run with GUI
+- python try2.py  (or python demo.try)
+
+### Step4: Configuration keywords on Setting tab
+- fill out the given blank
+- chose language
+- limitation with area keywords
+
+### Step5: Training CNN
+- Use tab
+
+### Step6: Training RNN 
+- Use tab or `eventDetection-master$ python rnn/lstm-anomaly-detection.py`
