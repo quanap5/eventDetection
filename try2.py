@@ -104,7 +104,7 @@ class mythread_Demo(QtCore.QThread):
 	global keywords, limits, lang
 	#print(check_limit("i love uou", limits))
 	tweet_count = 0
-	file_in='stream_earthquake8_ngay21thag9.json'
+	file_in='demoEarthquake2016Sep12_Korea.json'
 	#file_in='stream_earthquake5.json'
 	#keyword_list=['quanap5']
 	print("RUN DEMO:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::RUN DEMO")
